@@ -1,0 +1,14 @@
+No,Station,Arrival,Departure,StopTime,Distance,Day,Route
+1,Howrah Junction,Starts,15:50,0,0 km,1,1
+2,Barddhaman Junction,17:04,17:06,2 min,95 km,1,1
+3,Bolpur S Niktn,17:53,17:58,5 min,146 km,1,1
+4,Rampur Hat,18:57,18:59,2 min,207 km,1,1
+5,New Farakka Junction,20:50,20:52,2 min,293 km,1,1
+6,Malda Town,21:30,21:45,15 min,328 km,1,1
+7,Kishanganj,23:38,23:40,2 min,473 km,1,1
+8,New Jalpaiguri,01:45,02:05,20 min,561 km,2,1
+9,New Cooch Behar,04:15,04:17,2 min,687 km,2,1
+10,New Alipurdaur,04:35,04:37,2 min,705 km,2,1
+11,New Bongaigaon,06:25,06:27,2 min,812 km,2,1
+12,Kamakhya,09:11,09:13,2 min,1014 km,2,1
+13,Guwahati,09:30,Ends,0,1020 km,2,1
